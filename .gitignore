@@ -1,0 +1,7 @@
+.venv
+amis_fastapi_admin.egg-info
+.pdm-python
+
+__pycache__
+
+backend/amisadmin.db
